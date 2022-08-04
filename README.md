@@ -3,7 +3,7 @@
 README:
 
 dependencies:
-# pip install pydrive
+pip install pydrive
 
 open terminal from the python script path
 make sure that in this directory, there is a file named "client_secrets.json", which includes the information for OAUTH in 
